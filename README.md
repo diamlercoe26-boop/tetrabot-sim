@@ -38,6 +38,7 @@ The simulation demonstrates how such a robot could navigate through a simulated 
 ## Interactive Simulation
 
 Explore the browser-based TetraBot 3D simulation:
+https://diamlercoe26-boop.github.io/tetrabot-sim/
 
 **[LAUNCH TETRABOT SIMULATION](https://diamlercoe26-boop.github.io/tetrabot-sim/)**
 
